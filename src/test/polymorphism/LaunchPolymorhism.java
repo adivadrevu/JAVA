@@ -46,11 +46,7 @@ class FighterPlane extends AeroPlane{
 }
 
 
-class Plane{
-    public void display(Aeroplane aeroplane){
 
-    }
-}
 
 public class LaunchPolymorhism {
     public static void main(String[] args) {
