@@ -54,7 +54,7 @@ public class LaunchPolymorhism {
         AeroPlane cp=new CargoPlane();
 		cp.takingOff();
 		cp.landing();
-	//	((CargoPlane) cp).fly();
+		// ((CargoPlane) cp).fly(); // downcasting
 		
 		System.out.println("*******************************");
 		
