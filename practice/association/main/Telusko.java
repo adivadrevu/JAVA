@@ -1,5 +1,7 @@
 package practice.association.main;
 
+import practice.association.src.ICourse;
+
 public class Telusko {
 
 	private ICourse course;
