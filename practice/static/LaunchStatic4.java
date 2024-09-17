@@ -22,7 +22,7 @@ class Alien
 	
 }
 
-public class LaunchSttaic4 
+public class LaunchStatic4 
 {
 
 	public static void main(String[] args) 
